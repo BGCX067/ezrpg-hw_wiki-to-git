@@ -26,7 +26,7 @@ This might be the best place to start whenever you write a new module - just cop
 
 There are some rules that you need to follow when writing modules for them to integrate properly with ezRPG:
 
-  # Modules go in their own _/modules/ModuleName`_` sub-folder. Always. Admin modules go in the _/admin/ModuleName_ sub-folder.
+  # Modules go in their own _/modules/ModuleName_ sub-folder. Always. Admin modules go in the _/admin/ModuleName_ sub-folder.
   # Module class names must begin with the Module`_` prefix, followed by the module name.
   # Modules are accessed by their class name, minus the Module`_` prefix. For example, Module_Blabla will be accessed through index.php?mod=Blabla.
   # Modules must extend the Base_Module class in order to access database, template and player objects.
