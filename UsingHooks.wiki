@@ -71,7 +71,7 @@ function hook_online_players(&$db, &$tpl, &$player, $args = 0)
 ?>
 }}}
 
-Note that the function does *not* require the extra argument (which is the module name for the header hook). Whether or not your function modified the argument will depend on exactly what your hook is doing, but this particular module should always run no matter what the module name is, so it isn't used at all.
+Note that the function does *not* require the extra argument (which, for the header hook, is the current module name). Whether or not your function modified the argument will depend on exactly what your hook is doing, but this particular module should always run no matter what the module name is, so it isn't used at all.
 
 In the end, the module name argument is returned without being changed, so it can be used in other hook functions and after the hook has finished running.
 
