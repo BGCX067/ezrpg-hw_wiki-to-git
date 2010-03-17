@@ -1,0 +1,17 @@
+#summary A list of hooks available in ezRPG.
+#labels Support-Modding
+
+= Introduction =
+If you require help on using hooks, see this article: [UsingHooks].
+
+= Available Hooks =
+
+|| *Hook name* || *Arguments/Parameters* || *Called in* ||
+|| player || $player - The player object || _init.php_ ||
+|| header || $module`_`name - The name of the current module || _index.php_ ||
+|| footer || $module`_`name - The name of the current module || _index.php_ ||
+|| admin_header || $module`_`name - The name of the current admin module || _admin/index.php_ ||
+|| admin_header || $module`_`name - The name of the current admin module || _admin/index.php_ ||
+|| login || None || _modules/Login/index.php_ ||
+
+Remember to return the arguments passed to your hook function so they can be used in the next hook function!
