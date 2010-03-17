@@ -1,5 +1,5 @@
 #summary A guide to writing modules for ezRPG.
-#labels Featured
+#labels Featured,Support-Modding
 
 = Introduction =
 
