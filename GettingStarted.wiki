@@ -25,5 +25,4 @@ If you want to learn more about editing ezRPG code and writing modules for the e
 = Bugs =
 If you find bugs or have any other issues with ezRPG, please report them by clicking on the [http://code.google.com/p/ezrpg/issues/list Issues tab]!
 
-These are the latest issue updates:
-<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/issueupdates/gcIssueUpdates.xml" up_projectName="ezrpg" border="0"/>
+<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/issuetracker/gcIssueTracker.xml" up_projectName="ezrpg" border="0"/>
