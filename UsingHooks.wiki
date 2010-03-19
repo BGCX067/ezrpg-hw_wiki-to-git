@@ -1,6 +1,8 @@
 #summary A guide to using ezRPG hooks.
 #labels Featured,Support-Modding
 
+<wiki:toc max_depth="2" />
+
 = Introduction =
 
 Hooks provide a way for you to add code which will run in certain parts of the ezRPG core code, or at certain times.
