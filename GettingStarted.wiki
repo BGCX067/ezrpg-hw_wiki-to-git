@@ -12,7 +12,7 @@ You can find the latest release of ezRPG on the [http://code.google.com/p/ezrpg/
 
 If you are looking to download modules for your game, check out the [http://www.ezrpgproject.com/forum forum].
 
-<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://code.google.com/feeds/p/ezrpg/downloads/basic" width="500px" height="340px" border="0"/>
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://code.google.com/feeds/p/ezrpg/downloads/basic" width="500px" height="340px" border="0" up_gadgetTitle="Latest Downloads" />
 
 = The Wiki =
 
@@ -21,3 +21,5 @@ This wiki contains helpful articles and documentation to help you run your own e
 If you need help on using ezRPG, installation, or just solving common problems with using ezRPG, then check out the User Documentation.
 
 If you want to learn more about editing ezRPG code and writing modules for the engine, check out the Developer Documentation links on the navigation sidebar to the left.
+
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://code.google.com/feeds/p/ezrpg/svnchanges/basic?path=/wiki/" width="500px" height="340px" border="0" up_gadgetTitle="Latest Wiki Changes" />
