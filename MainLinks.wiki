@@ -10,3 +10,4 @@
       * [Hooks]
       * [UsingHooks Using Hooks]
   * Tutorials
+    * [BankModuleTutorial Writing a bank module]
