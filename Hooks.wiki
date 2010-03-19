@@ -1,6 +1,5 @@
 #summary A list of hooks available in ezRPG.
 #labels Support-Modding
-#sidebar MainLinks
 
 = Introduction =
 If you require help on using hooks, see this article: [UsingHooks].
