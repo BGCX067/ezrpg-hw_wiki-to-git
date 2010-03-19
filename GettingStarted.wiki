@@ -12,6 +12,8 @@ You can find the latest release of ezRPG on the [http://code.google.com/p/ezrpg/
 
 If you are looking to download modules for your game, check out the [http://www.ezrpgproject.com/forum forum].
 
+<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://code.google.com/feeds/p/ezrpg/downloads/basic" width="500px" height="340px" border="0"/>
+
 = The Wiki =
 
 This wiki contains helpful articles and documentation to help you run your own ezRPG game, and develop your own ezRPG modules.
