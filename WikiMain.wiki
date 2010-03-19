@@ -1,0 +1,8 @@
+#summary Wiki homepage.
+#sidebar MainLinks
+
+= ezRPG Wiki =
+
+Welcome to the ezRPG wiki!
+
+Please use the navigation sidebar on the left to find help on the topic you need, or use the search bar above!
