@@ -12,7 +12,7 @@ You can find the latest release of ezRPG on the [http://code.google.com/p/ezrpg/
 
 If you are looking to download modules for your game, check out the [http://www.ezrpgproject.com/forum forum].
 
-<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/downloads/gcDownloads.xml" up_projectName="protobuf" border="0"/>
+<wiki:gadget url="http://google-code-project-hosting-gadgets.googlecode.com/svn/build/prod/downloads/gcDownloads.xml" up_projectName="ezrpg" border="0"/>
 
 = The Wiki =
 
