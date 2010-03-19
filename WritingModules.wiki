@@ -1,6 +1,8 @@
 #summary A guide to writing modules for ezRPG.
 #labels Featured,Support-Modding
 
+<wiki:toc max_depth="2" />
+
 = Introduction =
 
 Modules are located in the sub-folder _/modules_. Everything you see on ezRPG is a module - login, register, logout, members list, account settings, etc.
