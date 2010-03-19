@@ -1,4 +1,5 @@
   * [GettingStarted Getting Started]
+  * [LatestChanges Latest Changes]
   * User Documentation
     * [Installation]
   * Developer Documentation
