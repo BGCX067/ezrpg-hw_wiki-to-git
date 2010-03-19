@@ -1,6 +1,5 @@
 #summary A guide to writing modules for ezRPG.
 #labels Featured,Support-Modding
-#sidebar MainLinks
 
 = Introduction =
 
