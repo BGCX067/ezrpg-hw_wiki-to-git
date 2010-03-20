@@ -12,6 +12,6 @@ If you require help on using hooks, see this article: [UsingHooks].
 || footer || $module`_`name - The name of the current module || _index.php_ ||
 || admin_header || $module`_`name - The name of the current admin module || _admin/index.php_ ||
 || admin_header || $module`_`name - The name of the current admin module || _admin/index.php_ ||
-|| login || None || _modules/Login/index.php_ ||
+|| login || $player - The new player object || _modules/Login/index.php_ ||
 
 Remember to return the arguments passed to your hook function so they can be used in the next hook function!
