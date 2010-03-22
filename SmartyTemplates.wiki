@@ -1,3 +1,4 @@
+#summary User will learn how to use smarty templates.
 =Smarty Template Basics=
 If you want to develop modules or make your own custom theme, you are going to know how to deal with smarty modules.
 To begin with in this tutorial, I will show you the basic stuff, and hopefully by time you leave this thread you will know how to customize/make .tpl files.
