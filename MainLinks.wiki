@@ -9,7 +9,7 @@
     * Hooks
       * [Hooks]
       * [UsingHooks Using Hooks]
-    * SmartyTemplates
+    * Smarty Templates
       * [SmartyTemplates Using Smarty Templates]
   * Tutorials
     * [BankModuleTutorial Writing a bank module]
