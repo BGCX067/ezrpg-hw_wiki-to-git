@@ -1,5 +1,7 @@
 #summary How to add the ezRPG captcha to your module.
 
+<wiki:toc max_depth="2" />
+
 = Introduction =
 
 If you're writing a module that should require human verification (a captcha), you can use the built-in ezRPG captcha if you want! This is the same one that is used in the Register module to make sure you don't get bots signing up to your game.
