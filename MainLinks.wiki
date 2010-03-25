@@ -6,10 +6,11 @@
     * [UsingMySQL Using MySQL]
     * Modules
       * [WritingModules Writing Modules]
+      * [AddingCaptcha Adding Captcha]
     * Hooks
       * [Hooks]
       * [UsingHooks Using Hooks]
     * Smarty Templates
-      * [SmartyTemplates Using Smarty Templates]
+      * [SmartyTemplates Using Templates]
   * Tutorials
     * [BankModuleTutorial Writing a bank module]
