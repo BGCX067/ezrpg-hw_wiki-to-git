@@ -8,7 +8,7 @@
       * [WritingModules Writing Modules]
       * [AddingCaptcha Adding Captcha]
     * Hooks
-      * [Hooks]
+      * [Hooks List of Hooks]
       * [UsingHooks Using Hooks]
     * Smarty Templates
       * [SmartyTemplates Using Templates]
