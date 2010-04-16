@@ -1,16 +1,20 @@
 #summary User will learn how to use smarty templates.
-#labels Support-Modding,Featured,support-general
+#labels Support-Modding
+
 =Smarty Template Basics=
 If you want to develop modules or make your own custom theme, you are going to know how to deal with smarty modules.
 To begin with in this tutorial, I will show you the basic stuff, and hopefully by time you leave this thread you will know how to customize/make .tpl files.
 
 ==*When making a module:*==
 It is a good idea to include your header.tpl, header.tpl is basically the whole design of the content wrapped around all modules. To include another tpl use this syntax:
+
 {{{
 {include file="FileName" TITLE="PageTitle"}
 }}}
+
 That will include the design of any file needed. Just replace "filename" with "header.tpl", and PageTitle to whatever you want it to be.
 Example:
+
 {{{
 {include file="header.tpl" TITLE="Stats"}
 }}}
