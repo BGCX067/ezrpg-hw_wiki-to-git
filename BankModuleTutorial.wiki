@@ -1,4 +1,5 @@
 #summary Tutorial on writing a bank module.
+#labels Featured,Support-Modding
 #sidebar BankTutSidebar
 
 = Introduction =
