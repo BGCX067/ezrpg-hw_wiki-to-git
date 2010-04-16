@@ -1,5 +1,4 @@
 #summary Tutorial on writing a bank module.
-
 #sidebar BankTutSidebar
 
 = Introduction =
